@@ -25,14 +25,17 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
