@@ -22,6 +22,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 | [0217-contains-duplicate](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0217-contains-duplicate) |
 | [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1929-concatenation-of-array](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +72,8 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0021-merge-two-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
