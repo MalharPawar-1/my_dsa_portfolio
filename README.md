@@ -19,6 +19,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 | ------- |
 | [0001-two-sum](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0136-single-number) |
@@ -79,6 +80,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
