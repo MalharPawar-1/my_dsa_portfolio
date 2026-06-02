@@ -19,6 +19,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0217-contains-duplicate) |
+| [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,16 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
