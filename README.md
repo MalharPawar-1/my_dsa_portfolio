@@ -48,6 +48,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0021-merge-two-sorted-lists) |
 | [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
@@ -61,4 +62,8 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0009-palindrome-number) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
