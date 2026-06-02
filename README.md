@@ -20,6 +20,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0217-contains-duplicate) |
 | [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
