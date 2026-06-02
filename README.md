@@ -17,6 +17,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0217-contains-duplicate) |
 | [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
@@ -24,6 +25,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0242-valid-anagram) |
 ## Sorting
