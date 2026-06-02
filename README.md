@@ -21,6 +21,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 | [0027-remove-element](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0217-contains-duplicate) |
 | [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
@@ -98,4 +99,8 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
