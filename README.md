@@ -62,10 +62,12 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0933-number-of-recent-calls) |
 ## Math
 |  |
 | ------- |
@@ -82,4 +84,8 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/1672-richest-customer-wealth) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
