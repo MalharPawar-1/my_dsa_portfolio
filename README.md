@@ -56,6 +56,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0232-implement-queue-using-stacks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,11 +76,13 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0933-number-of-recent-calls) |
 ## Math
