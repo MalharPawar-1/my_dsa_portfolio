@@ -18,6 +18,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0217-contains-duplicate) |
 | [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
@@ -34,6 +35,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0242-valid-anagram) |
 ## String
@@ -48,6 +50,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
