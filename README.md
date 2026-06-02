@@ -57,4 +57,8 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
