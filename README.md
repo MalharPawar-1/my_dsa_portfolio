@@ -26,6 +26,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 | [0136-single-number](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0347-top-k-frequent-elements) |
 | [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/1470-shuffle-the-array) |
@@ -39,6 +40,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 | [0049-group-anagrams](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +48,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 | [0088-merge-sorted-array](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -117,4 +120,24 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
