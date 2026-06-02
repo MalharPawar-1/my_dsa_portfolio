@@ -18,6 +18,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -51,6 +52,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
