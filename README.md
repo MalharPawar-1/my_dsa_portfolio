@@ -22,6 +22,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 | [0217-contains-duplicate](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0217-contains-duplicate) |
 | [0622-design-circular-queue](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0622-design-circular-queue) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/1929-concatenation-of-array) |
 ## Hash Table
