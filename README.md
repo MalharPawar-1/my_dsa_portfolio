@@ -34,6 +34,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -45,6 +46,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0242-valid-anagram) |
 ## Stack
@@ -80,6 +82,7 @@ My primary focus here is tracking problem-solving consistency, optimizing time/s
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/MalharPawar-1/my_dsa_portfolio/tree/master/0066-plus-one) |
 ## Recursion
 |  |
